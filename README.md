@@ -1,6 +1,3 @@
 # PinterestUsb
-
-<ul>
-  <li> `npm install`
-  <li>  Go Live
- </ul>
+1. `npm install`
+2. Go Live
